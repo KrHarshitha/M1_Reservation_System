@@ -1,13 +1,12 @@
 # M1_Reservation_System
-## Badges
-# Build On Linux
+# Badges
+## Build On Linux
 
-# Cppcheck Analysis
+## Cppcheck Analysis
 
-# Unit Testing
+## Unit Testing
 
 ## Codacy
-
 
 ## Codiga
 
