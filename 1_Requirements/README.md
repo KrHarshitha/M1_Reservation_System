@@ -31,3 +31,48 @@ The project Transport Company's procedure is now being maintained manually by th
 * Fortunately, the software industry's trends and technical abilities extend to the tourism industry as well. Operators in the long-distance bus business will eventually concentrate toward the most capable platform providers, much as they have in the airline and hotel reservation systems.
 * Defining Our System
 * A bus reservation system is a mobile or web software solution that allows users to book and purchase tickets online using a tailored, easy-to-use user experience. * It keeps track of customers' personal data, routes, frequent journeys, drop-off sites, and other details.
+
+## SWOT Analysis
+![SWOT Analysis (1)](https://user-images.githubusercontent.com/101011345/193526033-4569759b-b179-4514-a69f-a61b29c6a5ae.png)
+
+## 4W's And 1'H
+### who:
+* People can book bus tickets or seats from anywhere using an online bus reservation system. People who are busy with their current employment benefit the most from an online booking system.
+* People do not need to physically travel to a bus counter to buy bus seats or tickets. Instead, people can use an internet platform to reserve bus tickets or seats right away.
+### What:
+* Online Bus Seat Reservation is a web-based tool that allows bus passengers to book their seats. It is designed to be user-friendly for both bus trip administrators and passengers.
+### When:
+* Customers can use a bus ticket reservation system to reserve tickets online. The Bus Reservation System is a user-friendly online bus booking system that automates online ticket purchases.
+### Where:
+* Used in all over the world.
+### How:
+* Social Media Login.
+* Online Payment Modes.
+* GPS Integration. 
+* Enable Real-Time Seat Availability.
+* Include a Chat Window. 
+* Offer Complete Authentication. 
+* Plan the Booking Management Module. 
+* Advanced Features for Bus Ticket Booking App.
+
+## High Level Requirements:
+| ID | Description | Cateogery | Status |
+| ---|:------------|:----------|:-------|
+| HR01 | user can be able to access bus list | Technical | IMPLEMENTED |
+| HR02 | user can be able to access number of seats | Technical | IMPLEMENTED |
+| HR03 | user can be able to see the list of pasangers name | Technical | IMPLEMENTED |
+| HR04 | user can be able to choose bus seats | Technical | IMPLEMENTED |
+| HR05 | user can be able to show passengers ticket details | Technical | IMPLEMENTED |
+| HR06 | user can be able to show confirming the avaliable seats | Technical |IMPLEMENTED |
+| HR07 | user can be able to cancelling the tickets | Technical | IMPLEMENTED |
+| HR08 | user can be able to access the login page | Technical | IMPLEMENTED |
+## Low Level Requirements:
+| ID | Description | HLR ID | Status(IMPLEMENTED/FUTURE) |
+|----|:------------|:-------|:---------------------------|
+| LR01 | user must choose the option for list of avaliable bus in the reservation system | HR01 | IMPLEMENTED |
+| LR02 | same operation for accessing number of seats in the reservation system | HR02 | IMPLEMENTED |
+| LR03 | same operation for to view the list of passengers name in the reservation system | HR03 | IMPLEMENTED |
+| LR04 | same operations for choosing number of avaliable seats in the reservation system | HR04 | IMPLEMENTED |
+| LRO5 | same operation for to view the passengers ticket details in the reservation system | HR05 | IMPLEMENTED |
+| LR06 | same operation for confirmed the avaliable seats | HR06 | …
+
