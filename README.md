@@ -6,7 +6,7 @@
 ## Cppcheck Analysis
 [![Cppcheck Analysis](https://github.com/keerthanaBaskar/M1_Scientific_Calculator/actions/workflows/cppcheck_analysis.yml/badge.svg)](https://github.com/keerthanaBaskar/M1_Scientific_Calculator/actions/workflows/cppcheck_analysis.yml)
 ## Unit Testing
-
+[![Unit Testing - Unity](https://github.com/keerthanaBaskar/M1_Scientific_Calculator/actions/workflows/unittesting.yml/badge.svg)](https://github.com/keerthanaBaskar/M1_Scientific_Calculator/actions/workflows/unittesting.yml)
 ## Codacy
 
 ## Codiga
