@@ -1,6 +1,7 @@
 # M1_Reservation_System
 # Badges
 ## Build On Linux
+[![Build CI - Linux](https://github.com/Naresh17025/M1_Bus_reservation_system/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Naresh17025/M1_Bus_reservation_system/actions/workflows/c-cpp.yml)
 
 ## Cppcheck Analysis
 
