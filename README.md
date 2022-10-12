@@ -10,7 +10,7 @@
 ## Codacy
 
 ## Codiga
-
+[![codiga](https://api.codiga.io/project/32232/score/svg) |
 ## Build on Windows
 [![Build CI - Windows](https://github.com/keerthanaBaskar/M1_Scientific_Calculator/actions/workflows/Windows-cpp.yml/badge.svg)](https://github.com/keerthanaBaskar/M1_Scientific_Calculator/actions/workflows/Windows-cpp.yml)
 # Valgrind
