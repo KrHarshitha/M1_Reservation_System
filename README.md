@@ -13,3 +13,4 @@
 ## Build on Windows
 
 # Valgrind
+[![Valgrind](https://github.com/KrHarshitha/M1_Reservation_System/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/KrHarshitha/M1_Reservation_System/actions/workflows/Valgrind.yml)
