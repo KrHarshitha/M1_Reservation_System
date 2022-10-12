@@ -12,6 +12,6 @@
 ## Codiga
 
 ## Build on Windows
-
+[![Build CI - Windows](https://github.com/keerthanaBaskar/M1_Scientific_Calculator/actions/workflows/Windows-cpp.yml/badge.svg)](https://github.com/keerthanaBaskar/M1_Scientific_Calculator/actions/workflows/Windows-cpp.yml)
 # Valgrind
 [![Valgrind](https://github.com/KrHarshitha/M1_Reservation_System/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/KrHarshitha/M1_Reservation_System/actions/workflows/Valgrind.yml)
